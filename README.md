@@ -1,11 +1,14 @@
 # 🤖 AI Code Reviewer
 
-![License](https://img.shields.io/badge/license-MIT-green)
-![Build](https://img.shields.io/badge/build-passing-brightgreen)
-![Status](https://img.shields.io/badge/deployed-Railway-blue)
-![Frontend](https://img.shields.io/badge/frontend-Netlify-green)
 
-AI Code Reviewer is a web application that allows developers to submit their code and receive instant, AI-generated feedback on **bugs**, **suggestions**, **readability**, **efficiency**, and a **corrected version** (if applicable). It also compares the submitted code with ideal sample solutions and stores all submissions in a history log.
+
+
+![Frontend](https://img.shields.io/badge/frontend-Netlify-red)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Status](https://img.shields.io/badge/deployed-Railway-blue)
+![Build](https://img.shields.io/badge/build-passing-yellow)
+
+AI Code Reviewer is a web app where developers can upload their code and instantly get AI-powered feedback on bugs, improvements, readability, and performance, along with corrected versions when applicable. It also compares each submission against optimal sample solutions and saves all reviews in a history log.
 
 ---
 
@@ -156,14 +159,4 @@ VITE_API_BASE_URL=http://localhost:8000
 
 ## MIT License © 2025 Nisha Karithikeyan
 
-### Acknowledgments
 
-- [FastAPI](https://fastapi.tiangolo.com/)
-- [React](https://reactjs.org/)
-- [TailwindCSS](https://tailwindcss.com/)
-- [Axios](https://axios-http.com/)
-- [Monaco Editor](https://microsoft.github.io/monaco-editor/)
-- [Chart.js](https://www.chartjs.org/)
-- [Lucide Icons](https://lucide.dev/)
-- [Netlify](https://www.netlify.com/)
-- [Railway](https://railway.app/)
