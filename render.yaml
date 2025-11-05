@@ -9,6 +9,6 @@ services:
     startCommand: ./start.sh
     envVars:
       - key: GEMINI_API_KEY
-        value: AIzaSyAM2Zf3MzXbgd7WaL2ra7n04w56p_BRaTw
+        value: key
     autoDeploy: true
     pythonVersion: 3.10.12
